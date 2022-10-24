@@ -341,11 +341,13 @@ img{
 }
 
 @media(min-width: 992px){
-    .location-container{
+    .map-wrapper{
         grid-gap: 30px;
     }
 }
-
+.googlemap{
+    width: 100%;
+}
 
 /* footer */
 .footer{
