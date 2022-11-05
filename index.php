@@ -39,10 +39,11 @@
                 <li><a href = "#services">services</a></li>
                 <li><a href = "#rooms">rooms</a></li>
                 <li><a href = "#location">location</a></li>
-                <li><a href = "login.html">Account</a></li>
+                <li><a href = "login.php">Account</a></li>
+                <li><a href = "admin/admin_login.php">Admin</a></li>
             </ul>
-            <a href="signup.html" button class="btn sign-up">sign up</button>
-            <a href="login.html" button class = "btn log-in">log in</a>
+            <a href="register.php" button class="btn sign-up">sign up</button>
+            <a href="login.php" button class = "btn log-in">log in</a>
         </div>
         <!-- end of side navbar -->
 
